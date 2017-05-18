@@ -1,0 +1,6 @@
+[info]
+title=Linter for C/C++, using 'gcc'
+desc=Linter for CudaLint, adds support for C/C++ lexer, using 'gcc'
+type=cudatext-plugin
+subdir=cuda_lint_gcc
+homepage=https://github.com/TomBraider42/cuda_lint_gcc
